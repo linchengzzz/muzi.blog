@@ -77,7 +77,11 @@ theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
+# deploy:
+#   type: git
+#   repo: git@github.com:linchengzzz/linchengzzz.github.io.git
+#   branch: master
 deploy:
   type: git
-  repo: git@github.com:linchengzzz/linchengzzz.github.io.git
+  repo: git@github.com:linchengzzz/aliyun.muzi.blog.git
   branch: master
