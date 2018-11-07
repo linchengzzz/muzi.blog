@@ -35,7 +35,7 @@ favicon:
   #ms_browserconfig: /images/browserconfig.xml
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo, NexT"
+keywords: 小说，魂兮，杂文，原创，文章，作家，小说阅读网，原创小说
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -48,7 +48,7 @@ footer:
   #since: 2015
 
   # Icon between year and copyright info.
-  icon: user
+  icon: heart
 
   # If not defined, will be used `author` from Hexo main config.
   copyright:
@@ -75,7 +75,7 @@ footer:
 canonical: true
 
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
-seo: false
+seo: true
 
 # If true, will add site-subtitle to index page, added in main hexo config.
 # subtitle: Subtitle
@@ -129,9 +129,10 @@ scheme: Pisces
 social:
   GitHub: https://github.com/linchengzzz || github
   E-Mail: mailto:1139489076@qq.com || envelope
+  Weibo: http://weibo.com/paigu77 || weibo
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
-  #FB Page: https://www.facebook.com/yourname || facebook
+  Facebook: https://www.facebook.com/happylymz || facebook
   #VK Group: https://vk.com/yourname || vk
   #StackOverflow: https://stackoverflow.com/yourname || stack-overflow
   #YouTube: https://youtube.com/yourname || youtube
@@ -239,7 +240,7 @@ post_wordcount:
 wechat_subscriber:
   enabled: true
   qcode: /uploads/wechat-qcode.jpg
-  description: 欢迎您扫一扫上面的微信公众号，订阅我的公众号！
+  description: 扫码关注公众号  阅读更多原创杂文
 
 # Reward
 #reward_comment: Donate comment here
@@ -307,7 +308,7 @@ font:
   global:
     external: true
     family: Lato
-    size:
+    size: 16
 
   # Font settings for Headlines (h1, h2, h3, h4, h5, h6).
   # Fallback to `global` font settings.
