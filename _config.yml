@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 魂兮杂文
+title: 魂兮小说
 subtitle:
-description: 原创文章作家
-keywords: 小说，魂兮，杂文，原创，文章，作家，小说阅读网，原创小说
-author: 魂兮
+description: 给木子搭建的GitHub小说博客
+keywords:
+author: Linchengzzz
 language: zh-Hans
-timezone: 
+timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
