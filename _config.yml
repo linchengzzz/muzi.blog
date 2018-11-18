@@ -5,7 +5,7 @@
 # Site
 title: 魂兮杂文
 subtitle:
-description: 原创文章作家
+description: 醉唐中文网签约作者
 keywords: 小说，魂兮，杂文，原创，文章，作家，小说阅读网，原创小说
 author: 魂兮
 language: zh-Hans
@@ -85,3 +85,22 @@ deploy:
   type: git
   repo: git@github.com:linchengzzz/aliyun.muzi.blog.git
   branch: master
+
+# Live2D
+## https://github.com/EYHN/hexo-helper-live2d
+live2d:
+  enable: true
+  scriptFrom: local
+  pluginRootPath: live2dw/
+  pluginJsPath: lib/
+  pluginModelPath: assets/
+  tagMode: false
+  debug: false
+  model:
+    use: live2d-widget-model-nito
+  display:
+    position: right
+    width: 100
+    height: 200
+  mobile:
+    show: false
