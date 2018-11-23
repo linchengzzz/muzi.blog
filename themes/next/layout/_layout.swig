@@ -10,6 +10,15 @@
   {% include '_partials/head.swig' %}
   <title>{% block title %}{% endblock %}</title>
   {% include '_third-party/analytics/index.swig' %}
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?5eef0cae79b4d2957ffe5292e3f8d50a";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
 </head>
 
 <body itemscope itemtype="http://schema.org/WebPage" lang="{{ page.lang || page.language || config.language }}">
