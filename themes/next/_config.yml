@@ -64,7 +64,7 @@ footer:
   # -------------------------------------------------------------
   # Any custom text can be defined here.
   #custom_text: Hosted by <a target="_blank" href="https://pages.github.com">GitHub Pages</a>
-  custom_text: 京ICP备 18058583
+  custom_text: 京ICP备 18058583 号
 
 # ---------------------------------------------------------------
 # SEO Settings
@@ -128,6 +128,8 @@ scheme: Pisces
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
+  QQ: tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1993211312&website=www.oicqzone.com || qq
+  头条: https://www.toutiao.com/c/user/5511768147/#mid=1609100644365325 || id-card
   GitHub: https://github.com/linchengzzz || github
   E-Mail: mailto:1139489076@qq.com || envelope
   Weibo: http://weibo.com/paigu77 || weibo
@@ -574,7 +576,7 @@ busuanzi_count:
 
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
-baidu_push: false
+baidu_push: true
 
 # Google Calendar
 # Share your recent schedule to others via calendar page
