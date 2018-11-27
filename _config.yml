@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://www.hunxi99.com
 root: /
 # permalink: :year/:month/:day/:title/
 permalink: :title.html
@@ -83,10 +83,10 @@ theme: next
 #   repo: git@github.com:linchengzzz/linchengzzz.github.io.git
 #   branch: master
 deploy:
-  type: git
+- type: git
   repo: git@github.com:linchengzzz/aliyun.muzi.blog.git
   branch: master
-
+- type: baidu_url_submitter
 # Live2D
 ## https://github.com/EYHN/hexo-helper-live2d
 live2d:
@@ -105,3 +105,10 @@ live2d:
     height: 200
   mobile:
     show: false
+
+# Baidu_url_submit
+baidu_url_submit:
+  count: 100
+  host: www.hunxi99.com
+  token: j6Xis5efFrdnOzRR
+  path: baidu_urls.txt
