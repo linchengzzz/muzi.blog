@@ -35,28 +35,26 @@ favicon:
   #ms_browserconfig: /images/browserconfig.xml
 
 # Set default keywords (Use a comma to separate)
-keywords: 小说，魂兮，杂文，原创，文章，作家，小说阅读网，原创小说，魂兮99，魂兮久久，醉唐魂兮，魂兮杂文，魂兮小说，魂兮文章，hunxi99.com
+keywords: 小说,魂兮,杂文,原创,文章,作家,小说阅读网,原创小说,魂兮99,魂兮久久,醉唐魂兮,魂兮杂文,魂兮小说,魂兮文章,hunxi99.com
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss:
+rss: /atom.xml
 
 # feed
 # Dependencies: https://github.com/hexojs/hexo-generator-feed
 feed:
   type: atom
   path: atom.xml
-  limit: 20
-  hub:
-  content:
-  content_limit:
-  content_limit_delim: ' '
+  limit: 0
+
+plugins: hexo-generate-feed
 
 footer:
   # Specify the date when the site was setup.
   # If not defined, current year will be used.
-  #since: 2015
+  since: 2018
 
   # Icon between year and copyright info.
   icon: heart
@@ -75,7 +73,7 @@ footer:
   # -------------------------------------------------------------
   # Any custom text can be defined here.
   #custom_text: Hosted by <a target="_blank" href="https://pages.github.com">GitHub Pages</a>
-  custom_text: 京ICP备 18058583 号
+  custom_text: 京ICP备18058583号-1
 
 # ---------------------------------------------------------------
 # SEO Settings
