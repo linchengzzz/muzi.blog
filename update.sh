@@ -7,6 +7,7 @@ read -p "请输入要更新的内容：" commit
 git add .
 git commit -m${commit}
 git push origin master
+rm -rf public/*
 hexo g
 gulp
 hexo d
