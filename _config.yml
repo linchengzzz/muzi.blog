@@ -88,6 +88,8 @@ deploy:
   repo: git@github.com:linchengzzz/aliyun.muzi.blog.git
   branch: master
 - type: baidu_url_submitter
+- type: baidu_xz_url_submitter
+
 # Live2D
 ## https://github.com/EYHN/hexo-helper-live2d
 live2d:
@@ -113,3 +115,6 @@ baidu_url_submit:
   host: www.hunxi99.com
   token: j6Xis5efFrdnOzRR
   path: baidu_urls.txt
+  xz_appid: '1618559978883104'
+  xz_token: 'GWBTVROVOfWegVYI'
+  xz_count: 10
