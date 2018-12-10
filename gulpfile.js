@@ -29,7 +29,7 @@ gulp.task('minify-html', function() {
 // 压缩js文件
 gulp.task('minify-js', function() {
     return gulp
-        .src(['./public/**/.js', '!./public/js/**/*min.js'])
+        .src(['./public/**/*.js', '!./public/js/**/*.min.js'])
         .pipe(uglify())
         .pipe(gulp.dest('./public'));
 });
