@@ -2,7 +2,7 @@
 title: 超品女相师【4】临时抱佛脚
 date: 2019-01-06 17:31:29
 tags: [原创, 小说, 奇幻, 长篇, 连载, 都市, 玄幻]
-categories: 超品道姑
+categories: 超品女相师
 ---
 
 > 作者: [@魂兮](http://weibo.com/paigu77)

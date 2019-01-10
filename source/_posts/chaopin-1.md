@@ -2,7 +2,7 @@
 title: 超品女相师【1】打架
 date: 2019-01-02 15:15:39
 tags: [原创, 小说, 奇幻, 长篇, 连载, 都市, 玄幻]
-categories: 超品道姑
+categories: 超品女相师
 ---
 
 > 作者: [@魂兮](http://weibo.com/paigu77)

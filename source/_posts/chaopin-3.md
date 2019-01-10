@@ -2,7 +2,7 @@
 title: 超品女相师【3】爷爷被抓
 date: 2019-01-04 13:37:14
 tags: [原创, 小说, 奇幻, 长篇, 连载, 都市, 玄幻]
-categories: 超品道姑
+categories: 超品女相师
 ---
 
 > 作者: [@魂兮](http://weibo.com/paigu77)
