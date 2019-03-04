@@ -7,7 +7,7 @@
 
 <html class="{{ html_class | lower }}" lang="{{ config.language }}">
 <head>
-  <meta name="baidu_union_verify" content="994411b17a498de822bc0699d9313160">
+  <meta name="baidu_union_verify" content="dd9e919ab2469f2a5a2aa04d5c697f85">
   {% include '_partials/head.swig' %}
   <title>{% block title %}{% endblock %}</title>
   {% include '_third-party/analytics/index.swig' %}
