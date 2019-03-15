@@ -428,7 +428,9 @@
       {% endif %}
     </footer>
     {#评论显示区，请插入合适的位置#}
-    {#<div id="vcomments"></div>#}
+    {% if not is_index %}
+      <div id="vcomments"></div>
+    {% endif %}
   </div>
   {######################}
   {### END POST BLOCK ###}
