@@ -89,4 +89,21 @@
   {% include '_third-party/scroll-cookie.swig' %}
   {% include '_third-party/exturl.swig' %}
 </body>
+<!--载入js，在</body>之前插入即可-->
+<!--Leancloud 操作库:-->
+<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+<!--Valine 的核心代码库-->
+<script src="//cdn.hunxi99.com/Valine.min.js"></script>
+<script>
+    new Valine({
+        // AV 对象来自上面引入av-min.js(老司机们不要开车➳♡゛扎心了老铁)
+        av: AV, 
+        el: '.comment',
+        emoticon_url: 'https://cloud.panjunwen.com/alu',
+          emoticon_list: ["狂汗.png","不说话.png","汗.png","坐等.png","献花.png","不高兴.png","中刀.png","害羞.png","皱眉.png","小眼睛.png","暗地观察.png"],
+          app_id: 'RnmpnpK5Sh3AJ6UbqPJoeJXM-gzGzoHsz',
+          app_key: 'D9iMLNu8skf9TVnPGHxXdAp0',
+          placeholder: 'Write a Comment'
+        });
+</script>
 </html>

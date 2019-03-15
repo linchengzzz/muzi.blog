@@ -427,6 +427,8 @@
         <div class="post-eof"></div>
       {% endif %}
     </footer>
+    {#评论显示区，请插入合适的位置#}
+    <div class="comment"></div>
   </div>
   {######################}
   {### END POST BLOCK ###}
