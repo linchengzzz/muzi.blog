@@ -428,7 +428,7 @@
       {% endif %}
     </footer>
     {#评论显示区，请插入合适的位置#}
-    <div id="vcomments"></div>
+    {#<div id="vcomments"></div>#}
   </div>
   {######################}
   {### END POST BLOCK ###}
