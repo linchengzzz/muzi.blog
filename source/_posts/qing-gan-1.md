@@ -5,7 +5,7 @@ tags: [情感, 原创, 短篇, 新媒体]
 categories: 情感
 ---
 
-> 作者: [@魂兮](http://weibo.com/paigu77)
+> 作者: [@林木](http://weibo.com/paigu77)
 
 林子大了，什么鸟都有了；
 

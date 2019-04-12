@@ -5,7 +5,7 @@ tags: [原创, 小说, 女频, 权利, 斗争]
 categories: 侧室准则
 ---
 
-> 作者: [@魂兮](http://weibo.com/paigu77)
+> 作者: [@林木](http://weibo.com/paigu77)
 
 ## 第1章 穿成侧室
 

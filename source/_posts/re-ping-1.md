@@ -5,7 +5,7 @@ tags: [热评, 原创, 新媒体, 短篇]
 categories: 热评
 ---
 
-> 作者: [@魂兮](http://weibo.com/paigu77)
+> 作者: [@林木](http://weibo.com/paigu77)
 
 ![我们所能看到的不过是能看到的那冰山一角](http://cdn.hunxi99.com/20181206.jpg)
 

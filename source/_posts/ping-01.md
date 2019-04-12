@@ -5,7 +5,7 @@ tags: [原创, 评论, 测评, 电影, 热点]
 categories: 电影游戏评论
 ---
 
-> 作者: [@魂兮](http://weibo.com/paigu77) 
+> 作者: [@林木](http://weibo.com/paigu77) 
 
 ## 致流浪地球的一分党
 

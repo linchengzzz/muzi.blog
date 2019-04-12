@@ -1,4 +1,4 @@
-# 魂兮博客小说网
+# 林木故事博客小说网
 
 > Author: linchengzzz hunxi
 

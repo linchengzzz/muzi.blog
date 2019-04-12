@@ -5,7 +5,7 @@ tags: [原创, 小说, 奇幻, 长篇, 连载, 都市, 玄幻, 女频]
 categories: 超品女相师
 ---
 
-> 作者: [@魂兮](http://weibo.com/paigu77)
+> 作者: [@林木](http://weibo.com/paigu77)
 
 ## 第6章 多一个师兄?
 

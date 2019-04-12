@@ -5,7 +5,7 @@ tags: [小说, 悬疑, 原创, 奇幻, 连载]
 categories: 桃槐遗迹
 ---
 
-> 作者: [@魂兮](http://weibo.com/paigu77) 
+> 作者: [@林木](http://weibo.com/paigu77) 
 
 "用严家的钱，我怕咱祖宗气得从棺材板跳出来骂咱不孝！"
 
