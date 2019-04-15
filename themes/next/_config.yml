@@ -252,7 +252,7 @@ post_wordcount:
 wechat_subscriber:
   enabled: true
   qcode: /uploads/wechat-qcode.jpg
-  description: 扫码关注公众号  阅读更多原创杂文
+  description: 扫码关注公众号  阅读更多原创故事
 
 # Reward
 #reward_comment: Donate comment here
