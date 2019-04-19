@@ -11,4 +11,4 @@ rm -rf public/*
 hexo g
 gulp
 hexo d
-echo -e "\033[32m 博客文章更新成功，请远程部署 !!! \033[0m"
+echo -e "\033[32m 博客文章更新成功，请前往网站查看 !!! \033[0m"
