@@ -36,6 +36,15 @@
   <meta name="google-site-verification" content="{{ theme.google_site_verification }}" />
 {% endif %}
 
+{# 添加谷歌广告 #}
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-1530416148100126",
+    enable_page_level_ads: true
+  });
+</script>
+
 {% if theme.bing_site_verification %}
   <meta name="msvalidate.01" content="{{ theme.bing_site_verification }}" />
 {% endif %}
