@@ -5,6 +5,11 @@
   "hexo": {
     "version": "3.8.0"
   },
+  "scripts": {
+    "build": "./update.sh"
+  },
+  "author": "linchengzzz",
+  "license": "MIT",
   "dependencies": {
     "del": "^3.0.0",
     "gulp": "^3.9.1",
